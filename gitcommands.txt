@@ -1,4 +1,0 @@
-git init=for initializing git repository
-git status
-git add -A
-git commit -m "msge" 
