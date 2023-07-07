@@ -1,0 +1,28 @@
+notes/desc.txt
+notes/aws_iam_credentials.csv
+
+# IDE Configurations #
+######################
+.idea/
+*.sublime-project
+.prettierignore
+
+# Security Key Files #
+######################
+**/credentials.py
+
+# Django related #
+##################
+**.sqlite3
+*.log
+src/local_settings.py
+
+# Compiled source #
+###################
+__pycache__/
+*.py[cod]
+
+# Environments #
+################
+.env
+k-venv/
